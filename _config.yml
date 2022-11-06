@@ -2,6 +2,7 @@
 
 # Import the theme
 theme: jekyll-theme-chirpy
+remote-theme: cotes2020/jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
@@ -24,7 +25,7 @@ title: ST Chien                        # the main title
 tagline: I'm finding a SWE job :)   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  github.io page of Chikuma.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://cst0601/github.io'
@@ -42,7 +43,7 @@ social:
   email: chikuma0601@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/chikuma_870601      # change to your twitter homepage
     - https://github.com/cst0601       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
