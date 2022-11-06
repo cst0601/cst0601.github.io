@@ -16,7 +16,7 @@ Processing, Database and Backend.
 * I will: Work hard
 * I can: Learn new stuffs (quickly), do stuffs fast
 
-I promise. So please consider give me an OA or interview. Thanks.
+I promise. So please consider give me an OA or interview. Thank you.
 
 ---
 
@@ -56,7 +56,7 @@ on / maintaining).
 ### Tensor Core Acclerated Monte Carlo Methods
 - Designed a Monte Carlo algorithm that used matrix multiplication to perform probability experiments.
 - Implemented the algorithm using **C++** with Nvidia **Tensor Cores** and **cuBLAS** that achieved 35.8% performance
-improvement in execution time with 5000 probability experiments and had only and an error of 5e-3 compared
+improvement in execution time with 5000 probability experiments and had only and an error of $5\times 10^{-3}$ compared
 running using CUDA cores.
 
 ### Holo Bot
@@ -87,7 +87,7 @@ TX2 embedded platform.
 ## SKILLS
 
 ### Programming Languages:
-C, C++, Java, Python, SQL
+C, C++, Java, Python, SQL, recently learning Rust
 ### Libraries and Frameworks:
 CUDA, cuBLAS, OpenCV, pyTorch, Flask
 ### Parallel Computing, Natural Language Processing, Image Processing
