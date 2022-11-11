@@ -1,7 +1,7 @@
 ---
 title: So, I now have set up github.io
 author: chikuma
-date: 2022-11-05 19:00:00 -0700
+date: 2022-11-05 19:00:00 -0800
 categories: [Blogging]
 tags: []
 render_with_liquid: false

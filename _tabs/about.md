@@ -109,5 +109,7 @@ other events. And my 推しはさくらみこです。
 reasons, probably related to the first bullet point). 
 - Travel. Although I haven't been able to do so for some time.
 - Gaming, especially paradox games (games which you make the world map into one
-color) and FFXIV. Find me @ Elemental-Carbuncle.
+color) and FFXIV. Find me @ Elemental-Carbuncle. Maybe we could go on a raid
+sometimes. (Currently busy doing other things and stopped at P7S, the tree
+thing boss)
 - Read visual novels, if you are interested in this, check out 月に寄り添う乙女の作法 series.

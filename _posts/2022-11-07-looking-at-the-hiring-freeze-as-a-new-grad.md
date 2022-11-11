@@ -17,9 +17,9 @@ international student, as we only have limited time to find a job or else we
 need to leave the states.
 
 Looking at the news, Twitter has laid off many of its software engineer, similar
-rumors also came from the tech giant Meta, where thousands of employers might
-also get laid off. The future of new grads as well as those searching for a
-tech job looks bleak in the United States.
+rumors also came from the tech giant Meta (update: it did.), where thousands of
+employers might also get laid off. The future of new grads as well as those
+searching for a tech job looks bleak in the United States.
 
 How about finding a job back in my hometown? Taiwan has been a properous place
 for tech industry, especially for hardware related fields. However, I personally

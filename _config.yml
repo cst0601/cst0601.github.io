@@ -20,9 +20,9 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ST Chien                        # the main title
+title: Bocchi the Chikuma # the main title
 
-tagline: I'm finding a SWE job :)   # it will display as the sub-title
+tagline: I'm finding a SWE job :)  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   github.io page of Chikuma.
