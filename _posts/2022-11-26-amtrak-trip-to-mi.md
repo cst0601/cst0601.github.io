@@ -154,8 +154,9 @@ Back to Amtrak. I am probably going write some more about trains, but not now.
 Wolverine is far better than Southwest chief in terms of speed. The seat is also
 large and comfortable. If Amtrak started to consider electrifying any route,
 I would say this is the perfect line for that. (referncing a great video on
-this topic: [The 3 Amtrak Routes that can be Electrified Tomorrow](https://youtu
-.be/-yHqXMIvQXw)) The trip from Chicago to Ann Arbor took me around 5 hours. I
+this topic:
+[The 3 Amtrak Routes that can be Electrified Tomorrow](https://youtu.be/-yHqXMIvQXw)
+) The trip from Chicago to Ann Arbor took me around 5 hours. I
 got better internet connection along the way, far better than Southwest Chief.
 
 After 48 hours from I stepped inside the train, I finally arrived at Ann Arbor.
