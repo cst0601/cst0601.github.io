@@ -123,5 +123,7 @@ thing boss)
 
 # Other Notes
 
-The profile picture was taken at Feb, 2020 at Ueno Station. And the train was
+- The profile picture was taken at Feb, 2020 at Ueno Station. And the train was
 E4 Series Shinkansen. All of the E4 trains retired at 2021 (sad noise).
+- The title "Atelier Chikuma" comes from the atelier game series. I especially
+recommend "Atelier Sophie".
