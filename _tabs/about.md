@@ -6,9 +6,9 @@ order: 4
 
 # Shao-Tse "Chikuma" Chien
 
-I'm a student pursuing master's degree in Compute Science at University of
-California, Riverside. I'm expected to graduate in December, 2022 and currently
-seeking a full time software engineer position in the United States.
+I am a new graduate with a master's degree in Compute Science at University of
+California, Riverside. I am currently seeking a full time software engineer
+position in the United States.
 
 I have experiences in the following fields: Parallel computing, Natural Language
 Processing, Database and Backend.
@@ -25,8 +25,8 @@ I promise. So please consider give me an OA or interview. Thank you.
 ## EDUCATION
 
 ### University of California, Riverside
-**M.S. in Computer Science**, Riverside, 2022/12 (Expected)
-* GPA: 3.93
+**M.S. in Computer Science**, Riverside, 2022/12
+* GPA: 3.80
 * Course: Design and Analysis of Algorithms / Advanced Operating Systems / GPU Architecture & Parallel Programming
 
 ### National Taipei University of Technology
@@ -75,7 +75,7 @@ stability and achieve 0 crashes since 12/19/2020.
 - Developed a GUI tool that implements Mask R-CNN to separate instances and
 backgrounds of images as well as applying filters and rendering effects to
 images using TensorFlow, OpenCV and PyGtk in Python.
-- Developed an effect that simulates bokeh photos without relying on DSLR or 
+- Developed an effect that simulates bokeh photos without relying on DSLR or
 high-end smartphones using OpenCV and Python.
 
 ### [Bearing Fault Diagnosis](https://github.com/cst0601/BearingFaultDiagnosis)
@@ -97,7 +97,7 @@ C, C++, Java, Python, SQL, recently learning Rust
 CUDA, cuBLAS, OpenCV, pyTorch, Flask
 ### Parallel Computing, Natural Language Processing, Image Processing
 
---- 
+---
 
 ## HONORS & AWARDS
 
@@ -105,18 +105,17 @@ CUDA, cuBLAS, OpenCV, pyTorch, Flask
 - Proposed an idea of aerial vehicles for airborne launch to achieve different
 tasks with faster speed.
 
---- 
+---
 
 # Things I do when I am not programming
 - I'm deep inside a rabbit hole called Hololive, so I watch streams, lives, and
 other events. And my 推しはさくらみこです。
 - Learn languages. Aside from English, I am learning Japanese (for various
-reasons, probably related to the first bullet point). 
+reasons, probably related to the first bullet point).
 - Travel. Although I haven't been able to do so for some time.
 - Gaming, especially paradox games (games which you make the world map into one
-color) and FFXIV. Find me @ Elemental-Carbuncle. Maybe we could go on a raid
-sometimes. (Currently busy doing other things and stopped at P7S, the tree
-thing boss)
+color) and FFXIV. Find me @ Elemental-Carbuncle. I got a house at Shirogane
+29-51. Maybe we could go on a raid sometimes.
 - Read visual novels, if you are interested in this, check out 月に寄り添う乙女の作法 series.
 
 ---

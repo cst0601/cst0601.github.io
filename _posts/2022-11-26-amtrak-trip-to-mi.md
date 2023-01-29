@@ -7,7 +7,7 @@ tags: [Travel, Trains]
 render_with_liquid: false
 ---
 
-Last year, I went to Michigan to visite a friend during holiday season. But why
+Last year, I went to Michigan to visit a friend during holiday season. But why
 not spending the time with my family? Well, plane ticket back to my hometown
 costs too much. And for the same reason, I choose to take a train to visit my
 friend.
@@ -15,18 +15,18 @@ friend.
 Ah, the Amtrak, so infamous that I heard about it before I came to the US. But
 still, I like going on a trip with trains and this is the first time that I take
 a train that last more than a day. However, as I am traveling alone and I
-do not have the money for a roomette or any kind of sleeper, I was stucked with
+do not have the money for a roomette or any kind of sleeper, I was stuck with
 coach class. How nice, two days to spend on a chair😄. However, this even I am
 traveling in coach class, the ticket price still isn't cheap, probably because
 it is holiday season. The total for a round trip from Riverside to Ann Arbor was
 $506 via Southwest chief and Wolverine line.
 
 According to the schedule, my train departs at 19:13 from Riverside and of
-course it delayed. Well, I am not compalining about the delay since the track
+course it delayed. Well, I am not complaining about the delay since the track
 around this area is probably owned by Union Pacific. Therefore, Amtrak would
 need to wait for Union Pacific's freight trains to pass. What I am having
 problem with, is there were no information about the delay, no signs about which
-platform should I be wating for the train, no nothing. Thus, I was waiting in
+platform should I be waiting for the train, no nothing. Thus, I was waiting in
 dim light, praying that the platform I was on is the right one. Though
 eventually I found someone to ask which platform will the train arrive, it
 still was not a great experience. Compared to trains that I have taken before,
@@ -66,8 +66,8 @@ late. I left only my duffle bag, filled with clothes, back in the coach class
 car and carried all the valuable things with me in my backpack as I am not
 interested in getting stolen.
 
-The network is ... not good. There was no wifi or any kind of network service
-on the train. So you could only depend on your celluar. Whats worse, as the
+The network is ... not good. There was no WiFi or any kind of network service
+on the train. So you could only depend on your celluar. What's worse, as the
 train gradually travels towards nowhere, or the Rocky mountains, I could not
 get good connection. It had been some time since the last time I was cut out
 from any Internet connection. The good thing is I have my kindle with me.
@@ -76,8 +76,8 @@ from any Internet connection. The good thing is I have my kindle with me.
 
 ![Breaking Dawn](https://i.imgur.com/F9Wc4a1.jpg)
 
-I woked up at dawn, just when the sun start rising. The orange light of the sun
-shines at the large red dirt plain convered with some snow. It is a beautiful
+I woke up at dawn, just when the sun start rising. The orange light of the sun
+shines at the large red dirt plain covered with some snow. It is a beautiful
 sight that I have never seen before.
 
 ![nowhere1](https://i.imgur.com/xZYZ3OK.jpg)
@@ -102,13 +102,13 @@ coach class wanted to try out their food, it think you could also make a
 reservation (and pay extra money).
 
 Rice balls that I packed did not last long. I remember it disappeared before
-lunch. Without an option, I ordered some food a the first floor of the lounge
-car. It cost about as much as a meal in a fastfood restaurant, but the content
+lunch. Without an option, I ordered some food at the first floor of the lounge
+car. It cost about as much as a meal in a fast food restaurant, but the content
 was abysmal. Here is a picture of it:
 
 ![some microwaved stuff](https://i.imgur.com/1DyDsgv.jpg)
 
-Yes. It is some microwaved stuff. The tea also tasts abysmal.  I missed those
+Yes. It is some microwaved stuff. The tea also tastes abysmal.  I missed those
 excellent train bento you could find in Taiwan or Japan railways.
 
 ## Chicago Union Station
@@ -127,21 +127,21 @@ about that there are high speed railways in Europe, Japan, Taiwan and America
 probably should also have one. Even if high speed rail is not profitable, there
 should be a effort to electrify the existing railroads to provide better
 services. However the lady replied that it would not be possible as it would
-cost too much as an infastructure, America is simply too big for these kind of
+cost too much as an infrastructure, America is simply too big for these kind of
 projects.
 
 Although I knew that there are many problems that hinder any railway related
 projects, such as many part of the network is owned by different private
 companies, city plannings are mostly car centric etc. But I would not consider
-cost to be a mojor factor, as Americans could spend billions of dollars on
-highways and more to maintain them. Whatsmore, they are spending it without any
-doubt. By contrast, California highspeed railway project has become a focus of
+cost to be a major factor, as Americans could spend billions of dollars on
+highways and more to maintain them. What's more, they are spending it without any
+doubt. By contrast, California high speed railway project has become a focus of
 media for its budget. I would argue that blaming on costs could only serve as
 an excuse for not liking to make a difference. There was a time that railroads
 are the backbone of the states, with all the benefits that it could bring. But
 after private cars and planes started to dominate transportation, trains began
 to fell out of American's favor, even though trains are by no means, inferior
-to cars and jets. Take Taiwan as an example, though the magnitute is vastly
+to cars and jets. Take Taiwan as an example, though the magnitude is vastly
 different, there was a time that highway and regional airlines formed how people
 would travel to different places. But after high speed railway was built, it
 obliterated regional airline companies for its convenience and speed, even
@@ -153,18 +153,14 @@ afterwards.
 Back to Amtrak. I am probably going write some more about trains, but not now.
 Wolverine is far better than Southwest chief in terms of speed. The seat is also
 large and comfortable. If Amtrak started to consider electrifying any route,
-I would say this is the perfect line for that. (referncing a great video on
+I would say this is the perfect line for that. (reference to a great video on
 this topic:
 [The 3 Amtrak Routes that can be Electrified Tomorrow](https://youtu.be/-yHqXMIvQXw)
 ) The trip from Chicago to Ann Arbor took me around 5 hours. I
 got better internet connection along the way, far better than Southwest Chief.
 
 After 48 hours from I stepped inside the train, I finally arrived at Ann Arbor.
-It was almost midnight when I walked out of the station. Luckly, it was only a
+It was almost midnight when I walked out of the station. Luckily, it was only a
 couple hundred meters to my friend's place. To sum up this trip, though Amtrak
 is not very great, it is still quite an experience. Next time if I am traveling
 to east coast, I'm probably taking California Zephyr. :)
-
-
-
-
