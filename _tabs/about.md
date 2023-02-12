@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Shao-Tse "Chikuma" Chien
+# "Chikuma" Chien
 
 I am a new graduate with a master's degree in Compute Science at University of
 California, Riverside. I am currently seeking a full time software engineer
