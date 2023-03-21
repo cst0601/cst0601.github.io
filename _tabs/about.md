@@ -8,15 +8,10 @@ order: 4
 
 I am a new graduate with a master's degree in Compute Science at University of
 California, Riverside. I am currently seeking a full time software engineer
-position in the United States.
+position in the United States. (plz, I really need a job)
 
 I have experiences in the following fields: Parallel computing, Natural Language
 Processing, Database and Backend.
-
-* I will: Work hard
-* I can: Learn new stuffs (quickly), do stuffs fast
-
-I promise. So please consider give me an OA or interview. Thank you.
 
 ---
 
@@ -35,6 +30,9 @@ I promise. So please consider give me an OA or interview. Thank you.
 ---
 
 ## WORK EXPERIENCES
+
+### Department of Electrical and Computer Engineering - University of California, Riverside
+**Research Assistant**, Riverside, 2023/02 - now
 
 ### Galaxy Software Service Corporation
 **Software Engineer Intern**, Taipei, 2020/03 - 2020/07
