@@ -10,8 +10,8 @@ I am a new graduate with a master's degree in Compute Science at University of
 California, Riverside. I am currently seeking a full time software engineer
 position in the United States. (plz, I really need a job)
 
-I have experiences in the following fields: Parallel computing, Natural Language
-Processing, Database and Backend.
+I have experiences in the following fields: Web Frontend/Backend, Parallel
+computing, Natural Language Processing, Database.
 
 ---
 
@@ -22,7 +22,8 @@ Processing, Database and Backend.
 ### University of California, Riverside
 **M.S. in Computer Science**, Riverside, 2022/12
 * GPA: 3.80
-* Course: Design and Analysis of Algorithms / Advanced Operating Systems / GPU Architecture & Parallel Programming
+* Course: Design and Analysis of Algorithms / Advanced Operating Systems / GPU
+  Architecture & Parallel Programming
 
 ### National Taipei University of Technology
 **B.S in Computer Science and Information Engineering**, Taipei, 2020/06
@@ -38,8 +39,8 @@ Processing, Database and Backend.
 **Software Engineer Intern**, Taipei, 2020/03 - 2020/07
 - Designed and developed a text preprocessing package that combines different
 processing methods under a unified interface using Python for natural language
-processing (NLP), replacing old methods in 2 different projects to simplify
-the workflows of text preprocessing.
+processing (NLP), replacing old methods in 2 different projects to simplify the
+workflows of text preprocessing.
 - Developed functions of a WebAPI for training text classification models and
 making predictions based on BERT models using Python and pyTorch to achieve
 similar accuracy with 5% smaller training data.
@@ -54,10 +55,12 @@ Here are a list of projects that I have done in the past (or currently working
 on / maintaining).
 
 ### Tensor Core Acclerated Monte Carlo Methods
-- Designed a Monte Carlo algorithm that used matrix multiplication to perform probability experiments.
-- Implemented the algorithm using **C++** with Nvidia **Tensor Cores** and **cuBLAS** that achieved 35.8% performance
-improvement in execution time with 5000 probability experiments and had only and an error of $5\times 10^{-3}$ compared
-running using CUDA cores.
+- Designed a Monte Carlo algorithm that used matrix multiplication to perform
+  probability experiments.
+- Implemented the algorithm using **C++** with Nvidia **Tensor Cores** and
+**cuBLAS** that achieved 35.8% performance improvement in execution time with
+5000 probability experiments and had only and an error of $5\times 10^{-3}$
+compared running using CUDA cores.
 
 ### Holo Bot
 - Developed a discord bot that checks schedules, Youtube, Twitter contents of
@@ -90,9 +93,9 @@ C++/OpenCV and Qt on Nvidia Jetson TX2 embedded platform.
 ## SKILLS
 
 ### Programming Languages:
-C, C++, Java, Python, SQL, recently learning Rust
+C, C++, Java, Python, SQL, Javascript, recently learning Rust
 ### Libraries and Frameworks:
-CUDA, cuBLAS, OpenCV, pyTorch, Flask
+CUDA, cuBLAS, OpenCV, pyTorch, Flask, React
 ### Parallel Computing, Natural Language Processing, Image Processing
 
 ---
@@ -114,7 +117,8 @@ reasons, probably related to the first bullet point).
 - Gaming, especially paradox games (games which you make the world map into one
 color) and FFXIV. Find me @ Elemental-Carbuncle. I got a house at Shirogane
 29-51. Maybe we could go on a raid sometimes.
-- Read visual novels, if you are interested in this, check out 月に寄り添う乙女の作法 series.
+- Read visual novels, if you are interested in this, check out 月に寄り添う乙女
+  の作法 series.
 
 ---
 
