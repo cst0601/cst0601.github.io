@@ -10,8 +10,8 @@ I am a new graduate with a master's degree in Compute Science at University of
 California, Riverside. I am currently seeking a full time software engineer
 position in the United States. (plz, I really need a job)
 
-I have experiences in the following fields: Web Frontend/Backend, Parallel
-computing, Natural Language Processing, Database.
+I have experiences in the following fields: <ins>**Web Frontend/Backend, Parallel
+computing, Natural Language Processing, Database**</ins>.
 
 ---
 
@@ -54,7 +54,7 @@ test cases using pyTest for 2 existing natural language understanding projects.
 Here are a list of projects that I have done in the past (or currently working
 on / maintaining).
 
-### Tensor Core Acclerated Monte Carlo Methods
+### Tensor Core Accelerated Monte Carlo Methods
 - Designed a Monte Carlo algorithm that used matrix multiplication to perform
   probability experiments.
 - Implemented the algorithm using **C++** with Nvidia **Tensor Cores** and
@@ -71,6 +71,12 @@ stability and achieve 0 crashes since 12/19/2020.
 - This project is still maintained by me, you can found it on my github page:
     * [Holo Bot](https://github.com/cst0601/Holo-Bot)
     * [Holo Schedule API](https://github.com/cst0601/holo_schedule_api)
+
+### Full Stack Web App (I haven't think up of a name yet)
+- Developed a full stack social networking application providing services akin
+to that of Twitter because I did not like the current state of Twitter.
+- Implemented backend as a **RESTful API** using **Node.js**, **MongoDB**.
+- Developed frontend using **React**, **Redux**, Material UI.
 
 ### [Image Wizard](https://github.com/cst0601/Image-Wizard)
 - Developed a GUI tool that implements Mask R-CNN to separate instances and
@@ -95,8 +101,8 @@ C++/OpenCV and Qt on Nvidia Jetson TX2 embedded platform.
 ### Programming Languages:
 C, C++, Java, Python, SQL, Javascript, recently learning Rust
 ### Libraries and Frameworks:
-CUDA, cuBLAS, OpenCV, pyTorch, Flask, React
-### Parallel Computing, Natural Language Processing, Image Processing
+CUDA, cuBLAS, OpenCV, pyTorch, Flask, React, node.js
+### Parallel Computing, Natural Language Processing, Image Processing, Full Stack Web Development
 
 ---
 
