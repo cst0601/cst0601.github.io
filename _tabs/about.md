@@ -4,14 +4,22 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+# About This Site
+
+Mainly I write posts of solving Leetcode problems, though it did not came to be
+that I'll be posting that many leetcode stuffs. Here I occasionally post some
+other things.
+
+---
+
 # "Chikuma" Chien
 
 I am a new graduate with a master's degree in Compute Science at University of
 California, Riverside. I am currently seeking a full time software engineer
 position in the United States. (plz, I really need a job)
 
-I have experiences in the following fields: <ins>**Web Frontend/Backend, Parallel
-computing, Natural Language Processing, Database**</ins>.
+I have experiences in the following fields: <ins>**Web Frontend/Backend,
+Parallel computing, Natural Language Processing, Database**</ins>.
 
 ---
 
@@ -103,14 +111,6 @@ C, C++, Java, Python, SQL, Javascript, recently learning Rust
 ### Libraries and Frameworks:
 CUDA, cuBLAS, OpenCV, pyTorch, Flask, React, node.js
 ### Parallel Computing, Natural Language Processing, Image Processing, Full Stack Web Development
-
----
-
-## HONORS & AWARDS
-
-### Hackathon - 2018 ESA ActInSpace Taipei - Third prize
-- Proposed an idea of aerial vehicles for airborne launch to achieve different
-tasks with faster speed.
 
 ---
 
