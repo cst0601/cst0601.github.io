@@ -6,8 +6,8 @@ order: 4
 
 # About This Site
 
-Mainly I write posts of solving Leetcode problems, though it did not came to be
-that I'll be posting that many leetcode stuffs. Here I occasionally post some
+Mainly I write posts of solving Leetcode problems, though it did not came to me
+that I'll be posting that many Leetcode stuffs. Here I occasionally post some
 other things.
 
 ---
@@ -46,14 +46,14 @@ Parallel computing, Natural Language Processing, Database**</ins>.
 ### Galaxy Software Service Corporation
 **Software Engineer Intern**, Taipei, 2020/03 - 2020/07
 - Designed and developed a text preprocessing package that combines different
-processing methods under a unified interface using Python for natural language
-processing (NLP), replacing old methods in 2 different projects to simplify the
-workflows of text preprocessing.
+  processing methods under a unified interface using Python for natural language
+  processing (NLP), replacing old methods in 2 different projects to simplify
+  the workflows of text preprocessing.
 - Developed functions of a WebAPI for training text classification models and
-making predictions based on BERT models using Python and pyTorch to achieve
-similar accuracy with 5% smaller training data.
+  making predictions based on BERT models using Python and PyTorch to achieve
+  similar accuracy with 5% smaller training data.
 - Composed automation scripts for continuous integration pipelines and designed
-test cases using pyTest for 2 existing natural language understanding projects.
+  test cases using PyTest for 2 existing natural language understanding
 
 ---
 
@@ -66,71 +66,71 @@ on / maintaining).
 - Designed a Monte Carlo algorithm that used matrix multiplication to perform
   probability experiments.
 - Implemented the algorithm using **C++** with Nvidia **Tensor Cores** and
-**cuBLAS** that achieved 35.8% performance improvement in execution time with
-5000 probability experiments and had only and an error of $5\times 10^{-3}$
-compared running using CUDA cores.
+  **cuBLAS** that achieved 35.8% performance improvement in execution time with
+  5000 probability experiments and had only and an error of $5\times 10^{-3}$
+  compared running using CUDA cores.
 
 ### Holo Bot
 - Developed a discord bot that checks schedules, Youtube, Twitter contents of
-streamers and supports more than 3,000 members using **Java**.
+  streamers and supports more than 3,000 members using **Java**.
 - Designed a modular system architecture and built a WebAPI that scrapes web
-contents for stream schedules using **Python** and **Flask** to improve system
-stability and achieve 0 crashes since 12/19/2020.
-- This project is still maintained by me, you can found it on my github page:
+  contents for stream schedules using **Python** and **Flask** to improve system
+  stability and achieve 0 crashes since 12/19/2020.
+- This project is still maintained by me, you can found it on my Github page:
     * [Holo Bot](https://github.com/cst0601/Holo-Bot)
     * [Holo Schedule API](https://github.com/cst0601/holo_schedule_api)
 
 ### Full Stack Web App (I haven't think up of a name yet)
 - Developed a full stack social networking application providing services akin
-to that of Twitter because I did not like the current state of Twitter.
+  to that of Twitter because I did not like the current state of Twitter.
 - Implemented backend as a **RESTful API** using **Node.js**, **MongoDB**.
 - Developed frontend using **React**, **Redux**, Material UI.
 
 ### [Image Wizard](https://github.com/cst0601/Image-Wizard)
 - Developed a GUI tool that implements Mask R-CNN to separate instances and
-backgrounds of images as well as applying filters and rendering effects to
-images using TensorFlow, OpenCV and PyGtk in Python.
+  backgrounds of images as well as applying filters and rendering effects to
+  images using TensorFlow, OpenCV and PyGtk in Python.
 - Developed an effect that simulates bokeh photos without relying on DSLR or
-high-end smartphones using OpenCV and Python.
+  high-end smartphones using OpenCV and Python.
 
 ### [Bearing Fault Diagnosis](https://github.com/cst0601/BearingFaultDiagnosis)
 - Developed a program to detect and classify different types of bearing faults
-or the combined scenario using only vibration data with different machine
-learning models including SOM, Neural Net in Python and Keras.
+  or the combined scenario using only vibration data with different machine
+  learning models including SOM, Neural Net in Python and Keras.
 
 ### Embedded Face Recognition
 - Implemented a real-time human detection and facial recognition program in
-C++/OpenCV and Qt on Nvidia Jetson TX2 embedded platform.
+  C++/OpenCV and Qt on Nvidia Jetson TX2 embedded platform.
 
 ---
 
 ## SKILLS
 
 ### Programming Languages:
-C, C++, Java, Python, SQL, Javascript, recently learning Rust
+C, C++, Java, Python, SQL, JavaScript, recently learning Rust
 ### Libraries and Frameworks:
-CUDA, cuBLAS, OpenCV, pyTorch, Flask, React, node.js
+CUDA, cuBLAS, OpenCV, PyTorch, Flask, React, Node.js
 ### Parallel Computing, Natural Language Processing, Image Processing, Full Stack Web Development
 
 ---
 
 # Things I do when I am not programming
 - I'm deep inside a rabbit hole called Hololive, so I watch streams, lives, and
-other events. And my 推しはさくらみこです。
+  other events. And my 推しはさくらみこです。
 - Learn languages. Aside from English, I am learning Japanese (for various
-reasons, probably related to the first bullet point).
+  reasons, probably related to the first bullet point).
 - Travel. Although I haven't been able to do so for some time.
 - Gaming, especially paradox games (games which you make the world map into one
-color) and FFXIV. Find me @ Elemental-Carbuncle. I got a house at Shirogane
-29-51. Maybe we could go on a raid sometimes.
-- Read visual novels, if you are interested in this, check out 月に寄り添う乙女
-  の作法 series.
+  color) and FFXIV. Find me @ Elemental-Carbuncle. I got a house at Shirogane
+  29-51. Maybe we could go on a raid sometimes.
+- Read visual novels, if you are interested in this, check out Yuzusoft's games
+  and 月に寄り添う乙女の作法 series.
 
 ---
 
 # Other Notes
 
 - The profile picture was taken at Feb, 2020 at Ueno Station. And the train was
-E4 Series Shinkansen. All of the E4 trains retired at 2021 (sad noise).
+  E4 Series Shinkansen. All of the E4 trains retired at 2021 (sad noise).
 - The title "Atelier Chikuma" comes from the atelier game series. I especially
-recommend "Atelier Sophie".
+  recommend "Atelier Sophie".
