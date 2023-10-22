@@ -81,8 +81,9 @@ on / maintaining).
     * [Holo Schedule API](https://github.com/cst0601/holo_schedule_api)
 
 ### Full Stack Web App (I haven't think up of a name yet)
-- Developed a full stack social networking application providing services akin
-  to that of Twitter because I did not like the current state of Twitter.
+- Developed a full stack social networking application that is currently running
+  on AWS that provides services akin to that of Twitter because I did not like
+  the current state of Twitter.
 - Implemented backend as a **RESTful API** using **Node.js**, **MongoDB**.
 - Developed frontend using **React**, **Redux**, Material UI.
 
