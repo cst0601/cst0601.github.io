@@ -14,12 +14,11 @@ other things.
 
 # "Chikuma" Chien
 
-I am a new graduate with a master's degree in Compute Science at University of
-California, Riverside. I am currently seeking a full time software engineer
-position in the United States. (plz, I really need a job)
+Junior Software Engineer @ Tensure. Recent graduate with a master's degree
+in Compute Science at University of California, Riverside.
 
-I have experiences in the following fields: <ins>**Web Frontend/Backend,
-Parallel computing, Natural Language Processing, Database**</ins>.
+I have experiences in the following fields: <ins>**Parallel Computing, Web
+Frontend/Backend, Natural Language Processing**</ins>.
 
 ---
 
@@ -29,9 +28,6 @@ Parallel computing, Natural Language Processing, Database**</ins>.
 
 ### University of California, Riverside
 **M.S. in Computer Science**, Riverside, 2022/12
-* GPA: 3.80
-* Course: Design and Analysis of Algorithms / Advanced Operating Systems / GPU
-  Architecture & Parallel Programming
 
 ### National Taipei University of Technology
 **B.S in Computer Science and Information Engineering**, Taipei, 2020/06
@@ -40,27 +36,21 @@ Parallel computing, Natural Language Processing, Database**</ins>.
 
 ## WORK EXPERIENCES
 
+### Tensure
+**Junior Software Engineer**, Remote, 2023/11 - now
+
 ### Department of Electrical and Computer Engineering - University of California, Riverside
-**Research Assistant**, Riverside, 2023/02 - now
+**Research Assistant**, Riverside, 2023/02 - 2023/11
 
 ### Galaxy Software Service Corporation
 **Software Engineer Intern**, Taipei, 2020/03 - 2020/07
-- Designed and developed a text preprocessing package that combines different
-  processing methods under a unified interface using Python for natural language
-  processing (NLP), replacing old methods in 2 different projects to simplify
-  the workflows of text preprocessing.
-- Developed functions of a WebAPI for training text classification models and
-  making predictions based on BERT models using Python and PyTorch to achieve
-  similar accuracy with 5% smaller training data.
-- Composed automation scripts for continuous integration pipelines and designed
-  test cases using PyTest for 2 existing natural language understanding
 
 ---
 
 ## PROJECTS
 
-Here are a list of projects that I have done in the past (or currently working
-on / maintaining).
+Here is a list of projects that I have done in the past (or currently working
+on / maintaining) that are probably interesting.
 
 ### Tensor Core Accelerated Monte Carlo Methods
 - Designed a Monte Carlo algorithm that used matrix multiplication to perform
@@ -79,29 +69,6 @@ on / maintaining).
 - This project is still maintained by me, you can found it on my Github page:
     * [Holo Bot](https://github.com/cst0601/Holo-Bot)
     * [Holo Schedule API](https://github.com/cst0601/holo_schedule_api)
-
-### Full Stack Web App (I haven't think up of a name yet)
-- Developed a full stack social networking application that is currently running
-  on AWS that provides services akin to that of Twitter because I did not like
-  the current state of Twitter.
-- Implemented backend as a **RESTful API** using **Node.js**, **MongoDB**.
-- Developed frontend using **React**, **Redux**, Material UI.
-
-### [Image Wizard](https://github.com/cst0601/Image-Wizard)
-- Developed a GUI tool that implements Mask R-CNN to separate instances and
-  backgrounds of images as well as applying filters and rendering effects to
-  images using TensorFlow, OpenCV and PyGtk in Python.
-- Developed an effect that simulates bokeh photos without relying on DSLR or
-  high-end smartphones using OpenCV and Python.
-
-### [Bearing Fault Diagnosis](https://github.com/cst0601/BearingFaultDiagnosis)
-- Developed a program to detect and classify different types of bearing faults
-  or the combined scenario using only vibration data with different machine
-  learning models including SOM, Neural Net in Python and Keras.
-
-### Embedded Face Recognition
-- Implemented a real-time human detection and facial recognition program in
-  C++/OpenCV and Qt on Nvidia Jetson TX2 embedded platform.
 
 ---
 

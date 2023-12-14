@@ -22,7 +22,7 @@ timezone: America/Los_Angeles
 
 title: Atelier Chikuma # the main title
 
-tagline: I'm finding a SWE job :)  # it will display as the sub-title
+tagline: I have found a SWE job :D  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   github.io page of Chikuma.
